@@ -4,7 +4,7 @@ Keeping things simple
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Agency growth and Segmetrics.io
+- 🔭 I’m currently working on a dashboard and branding projects
 - 🌱 I’m currently learning to make good habits
 - 👯 I’m looking to collaborate on podcasts and IoT
 - 🤔 I’m looking for clients with physical product businesses
